@@ -81,4 +81,4 @@ O Desarquivo continuará a ser melhorado e procurará tornar-se uma ferramenta m
 
 Para entrar em contacto comigo, utiliza o [LinkedIn](https://www.linkedin.com/in/msramalho/).
 
-Agradecemos sugestões de melhoria e identificação de erros. Nesses casos, usem os [issues](https://github.com/msramalho/desarquivo/issues) do Github.
+Agradecemos sugestões de melhoria e identificação de erros. Nesses casos, usem os [issues](https://github.com/desarquivo/desarquivo/issues) do Github.

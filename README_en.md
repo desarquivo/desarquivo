@@ -72,4 +72,4 @@ Desarquivo will continue being improved and can grow into a more comprehensive t
 
 To get in touch with me, please use [LinkedIn](https://www.linkedin.com/in/msramalho/). 
 
-We welcome all suggestions and bugs. For that, please use the [issues](https://github.com/msramalho/desarquivo/issues) page. 
+We welcome all suggestions and bugs. For that, please use the [issues](https://github.com/desarquivo/desarquivo/issues) page. 
